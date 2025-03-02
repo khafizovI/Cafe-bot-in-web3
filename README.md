@@ -1,4 +1,4 @@
-# 🛍 Cafe Shop Telegram Web3 Bot
+# 🛍 Cafe Telegram Web3 Bot
 
 Bu **Web3 Shop Telegram Bot** mahsulotlarni qo‘shish, ularni foydalanuvchilarga ko‘rsatish va savatchaga qo‘shish imkonini beradi. Bot Web3 HTML bilan bog‘langan bo‘lib, foydalanuvchilar mahsulotlarni bot orqali tanlashi va to‘lovni amalga oshirishi mumkin.
 
